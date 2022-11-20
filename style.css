@@ -1,0 +1,45 @@
+body{
+    font-family: 'Reggae One', cursive;
+    background: yellow;
+}
+.header_div{
+    background: black;
+    color: white;
+}
+.header_div img{
+    width: 100px;
+}
+.main_div{
+    background: tomato;
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px solid yellow;
+    color: yellow;
+}
+.main_div label{    
+    color: yellow;
+    padding: 10px;
+    width: 100px;
+    background: red;    
+    box-shadow: 5px 5px 18px green;
+    margin-bottom: 0px;
+    
+}
+.footer_div{
+    background: whitesmoke;
+    margin-bottom: 10px;
+    padding: 3px;
+}
+.footer_div img{
+    width: 100px;
+} 
+.footer_div h4{
+    color: blue;
+    margin-bottom: 10px;
+}
+.class_footer_div{
+    background: grey;
+    line-height: 3px;
+    padding: 5px;
+    margin-bottom: 10px;
+}
